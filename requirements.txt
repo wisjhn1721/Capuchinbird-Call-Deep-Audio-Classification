@@ -1,0 +1,2 @@
+tensorflow~=2.9.2
+matplotlib~=3.5.3
